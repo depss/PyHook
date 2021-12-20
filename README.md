@@ -1,5 +1,6 @@
 # PyHook
 A tool to send messages via discord web hook with python
+Just install the required libraries and your good to go!
 
 Windows
 ----------------------------------
